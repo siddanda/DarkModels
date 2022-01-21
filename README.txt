@@ -1,6 +1,9 @@
 --------
 OVERVIEW AND USAGE
 
+
+- Broadly, what is contained
+- What to cite to use it
 --------
 CONTENTS
 
