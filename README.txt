@@ -2,7 +2,7 @@
 
 OVERVIEW AND USAGE
 
-This repository provides plots contained in or supplemental to *cite*. If you use any of the
+This repository provides plots that are contained in or supplemental to *cite*. If you use any of the
 information provided in this repository, please cite *cite*.
 
 ----------------
@@ -10,9 +10,9 @@ information provided in this repository, please cite *cite*.
 CONTENTS
 
 This repository contains three main folders, with each containing plots for each of the sets
-of priors used in the Markov-chain Monte Carlo sampling runs.
+of priors used in the Markov-Chain Monte Carlo sampling runs.
 
-The folder "MCMC Plots" contains plots containing information about the specific Markov-chain
+The folder "MCMC Plots" contains plots with information about the specific Markov-Chain
 Monte Carlo (MCMC) runs done. "Paper Plots" contains the plots in the main paper at *cite*, as well as
 related plots with different MCMC priors. "Rotation Curves" contain plots of the galactic rotation
 curves, containing both observed data and fits via the used models.
@@ -28,27 +28,27 @@ matter model.
 
 UNCONVERGED GALAXIES
 
-For each of the MCMC runs, there were a small number of galaxies that did not pass our test for autocorrelation.
-These galaxies should be regarded as exceptions and be treated with extra care in any analysis. These galaxies
-are tabulated below:
+For each of the MCMC runs, there were a small number of galaxies that did not pass our test 
+for autocorrelation. These galaxies should be regarded as exceptions and be treated with extra care in
+any analysis. These galaxies are tabulated below:
 
 Abundance Matching Prior
 --------
-DC14 Unconverged Galaxies - 
-NFW Unconverged Galaxies - 
-SIDM Unconverged Galaxies - 
+DC14 Unconverged Galaxies - (None)
+NFW Unconverged Galaxies - NGC6015
+SIDM Unconverged Galaxies - NGC0247
 
 Benchmark Analysis
 --------
-DC14 Unconverged Galaxies - 
-NFW Unconverged Galaxies - 
-SIDM Unconverged Galaxies - 
+DC14 Unconverged Galaxies - (None)
+NFW Unconverged Galaxies - NGC6015
+SIDM Unconverged Galaxies - NGC0247
 
 Mass-to-Light Ratio Prior
 --------
-DC14 Unconverged Galaxies - 
-NFW Unconverged Galaxies - 
-SIDM Unconverged Galaxies - 
+DC14 Unconverged Galaxies - NGC3917, UGC08286
+NFW Unconverged Galaxies - NGC6015
+SIDM Unconverged Galaxies - NGC0289, NGC3521, NGC6674, NGC7841, UGC11914
 
 ----------------
 
