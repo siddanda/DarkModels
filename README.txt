@@ -2,7 +2,6 @@
 
 OVERVIEW AND USAGE
 
-
 This repository provides plots contained in or supplemental to *cite*. If you use any of the
 information provided in this repository, please cite *cite*.
 
