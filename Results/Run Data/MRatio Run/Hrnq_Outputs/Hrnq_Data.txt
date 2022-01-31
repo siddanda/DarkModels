@@ -1,1 +1,0 @@
-Galaxy	rho_dm0	rho16	rho84	sigma_0	sig16	sig84	Yd	Yd16	Yd84	Yb	Yb16	Yb84	BIC	Flag?

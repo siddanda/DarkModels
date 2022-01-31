@@ -1,43 +1,31 @@
 --------
+
 OVERVIEW AND USAGE
 
 
-- Broadly, what is contained
-- What to cite to use it
+This repository provides plots contained in or supplemental to *cite*. If you use any of the
+information provided in this repository, please cite *cite*.
+
 --------
+
 CONTENTS
 
 
-Code/
-|
-|-------Python Code/
-|	|
-|	|-------Abundance Matching/
-|	|		*contains the code used for the abundance matching*
-|	|
-|	|-------MRatio Run/
-|	|		*contains the code used for the mratio runs*
+The folder "MCMC Plots" contains plots containing information about the specific Markov-chain
+Monte Carlo (MCMC) runs done. "Paper Plots" contains the plots in the main paper at *cite*, as well as
+related plots with different MCMC priors. "Rotation Curves" contain plots of the galactic rotation
+curves, containing both observed data and fits via the used models.
 
-Results/
-|	
-|-------Autocorrelation/
-|		Contains plots of the autocorrelation tests done for each of the runs, tests, and models.
-|
-|-------Chi2 Plots/
-|		Contains plots of the cumulative distribution functions (CDFs) for each of the models and prior distributions chosen.
-|
-|-------DBIC/
-|		Contains plots of the delta-BIC distributions obtained.
-|
-|-------Paper Plots/
-|		Contains the plots used in the paper, as well as some additional reference plots.
-|
-|-------Rainbow	Plots/
-|		Contains plots with data points colored by some value.
-|
-|-------Rotation Curve and Residual Summaries/
-|		Contains the rotation curves obtained as well as plots of the residuals.
-|
-|-------Run Data/
-|		Contains plots and data pertaining to the actual MCMC runs performed.
+Within each of these folders, the subfolders of "Abundance Matching Prior", "Benchmark Analysis", and
+"Mass-to-Light Ratio Prior" contain the respective plots to each of those three sets of MCMC priors examined.
+
+In "MCMC Plots", each of these three subfolders contain further subfolders of "DC14", "NFW", and "SIDM",
+containing the autocorrelation, corner, and step plots of the MCMC runs done for the respective dark
+matter model.
+
 --------
+
+UNCONVERGED GALAXIES
+
+
+
