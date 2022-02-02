@@ -2,8 +2,8 @@
 
 OVERVIEW AND USAGE
 
-This repository provides plots that are contained in or supplemental to *cite*. If you use any of the
-information provided in this repository, please cite *cite*.
+This repository provides plots that are contained in or supplemental to https://arxiv.org/abs/2202.00012. 
+If you use any of the information provided in this repository, please cite https://arxiv.org/abs/2202.00012.
 
 ----------------
 
@@ -13,9 +13,10 @@ This repository contains three main folders, with each containing plots for each
 of priors used in the Markov-Chain Monte Carlo sampling runs.
 
 The folder "MCMC Plots" contains plots with information about the specific Markov-Chain
-Monte Carlo (MCMC) runs done. "Paper Plots" contains the plots in the main paper at *cite*, as well as
-related plots with different MCMC priors. "Rotation Curves" contain plots of the galactic rotation
-curves, containing both observed data and fits via the used models.
+Monte Carlo (MCMC) runs done. "Paper Plots" contains the plots in the main paper at 
+https://arxiv.org/abs/2202.00012, as well as related plots with different MCMC priors. 
+"Rotation Curves" contain plots of the galactic rotation curves, containing both observed data and
+fits via the used models.
 
 Within each of these folders, the subfolders of "Abundance Matching Prior", "Benchmark Analysis", and
 "Mass-to-Light Ratio Prior" contain the respective plots to each of those three sets of MCMC priors examined.
